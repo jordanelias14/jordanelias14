@@ -1,5 +1,5 @@
 ## Hello everyone, I am Jordan Elias 👋
-🔭 I’m currently working as Front-end Development at Secretaria da Fazenda-Minas Gerais
+🔭 I’m currently working as Front-end Developer at Secretaria da Fazenda-Minas Gerais
 ## My Techs 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
